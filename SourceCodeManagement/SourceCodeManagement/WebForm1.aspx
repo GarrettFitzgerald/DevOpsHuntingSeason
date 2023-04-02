@@ -25,7 +25,7 @@
         <img alt="" class="auto-style2" src="Images/rabbitseason.png" />
     </p>
     <p class="auto-style1">
-        Garrett says it is Rabbit Season
+        Garrett says it is Rabbit Season!
     </p>
 </body>
 </html>
