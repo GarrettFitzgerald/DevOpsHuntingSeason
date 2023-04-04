@@ -27,5 +27,8 @@
     <p class="auto-style1">
         Garrett says it is Rabbit Season!
     </p>
+    <p>
+        Blake Says it is Duck Season!
+    </p>
 </body>
 </html>
