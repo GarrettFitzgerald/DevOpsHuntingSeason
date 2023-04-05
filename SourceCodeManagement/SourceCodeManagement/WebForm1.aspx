@@ -13,6 +13,9 @@
             width: 250px;
             height: 250px;
         }
+        .auto-style3 {
+            text-align: right;
+        }
     </style>
 </head>
 <body>
@@ -30,5 +33,7 @@
     <p>
         Blake Says it is Duck Season!
     </p>
+    <p class="auto-style3">
+        Garrett says that he is pretty sure it is Rabbit Season!</p>
 </body>
 </html>
