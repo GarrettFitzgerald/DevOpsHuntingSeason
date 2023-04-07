@@ -35,5 +35,7 @@
     </p>
     <p class="auto-style3">
         Garrett says that he is pretty sure it is Rabbit Season!</p>
+    <p class="auto-style3">
+        Garrett even made a branch to make sure that it is Rabbit Season.</p>
 </body>
 </html>
